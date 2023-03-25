@@ -6,7 +6,3 @@
 <h4 align="center">I'm a web developer and im currently learning programming languages like javascript, python, etc</h4>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=devanshyadav2010&label=Profile%20views&color=0e75b6&style=plastic" alt="Adann" /> </p>
-
-
-
-
